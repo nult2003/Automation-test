@@ -53,7 +53,7 @@ namespace CefsharpDemoTest
                 var options = new ChromeOptions();
                 // cefclient.exe
                 //options.BinaryLocation = @"D:\my studies\study\CefsharpDemo\cef_binary_98.2.0+g78c653a+chromium-98.0.4758.102_windows64_client\Release\cefclient.exe";
-                options.BinaryLocation = @"C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefsharpDemo.exe";
+                options.BinaryLocation = @"C:\xProject\Study\Automation-test\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefsharpDemo.exe";
                 
                 //options.AddArgument("--log-level=3");
                 //options.AddArgument("--disable-extensions");
@@ -81,7 +81,7 @@ namespace CefsharpDemoTest
                 var options = new ChromeOptions();
                 // cefclient.exe
                 //options.BinaryLocation = @"D:\my studies\study\CefsharpDemo\cef_binary_98.2.0+g78c653a+chromium-98.0.4758.102_windows64_client\Release\cefclient.exe";
-                options.BinaryLocation = @"C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefsharpDemo.exe";
+                options.BinaryLocation = @"C:\xProject\Study\Automation-test\Cefsharp_selenium\CefsharpDemo\bin\Debug\cefsharpdemo.exe";
 
                 //options.AddArgument("--log-level=3");
                 //options.AddArgument("--disable-extensions");
@@ -90,7 +90,7 @@ namespace CefsharpDemoTest
 
                 driver.Navigate().GoToUrl("https://staging.ibwave-cloud.com/");
                 //driver.Manage().Window.Maximize();
-                driver.Close();
+                //driver.Close();
 
             }
             catch (Exception ex)
