@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CefsharpDemoTest", "CefsharpDemoTest.csproj", "{9F3DF083-82EF-4810-81BC-ED3A87E8880D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CefsharpDemo", "..\CefsharpDemo\CefsharpDemo.csproj", "{4DD89E9B-185A-4798-A94A-9730013366E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F3DF083-82EF-4810-81BC-ED3A87E8880D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3DF083-82EF-4810-81BC-ED3A87E8880D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3DF083-82EF-4810-81BC-ED3A87E8880D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3DF083-82EF-4810-81BC-ED3A87E8880D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD89E9B-185A-4798-A94A-9730013366E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD89E9B-185A-4798-A94A-9730013366E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD89E9B-185A-4798-A94A-9730013366E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD89E9B-185A-4798-A94A-9730013366E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2A97EFA-DE43-4134-9728-12BFA177A7CF}
+	EndGlobalSection
+EndGlobal

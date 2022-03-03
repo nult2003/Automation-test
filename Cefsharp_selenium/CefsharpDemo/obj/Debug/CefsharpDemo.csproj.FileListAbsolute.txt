@@ -1,0 +1,195 @@
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.Core.Runtime.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.Core.Runtime.pdb
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.Core.Runtime.xml
+D:\my studies\study\CefsharpDemo\bin\Debug\chrome_100_percent.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\chrome_200_percent.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\chrome_elf.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\d3dcompiler_47.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\icudtl.dat
+D:\my studies\study\CefsharpDemo\bin\Debug\libcef.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\libEGL.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\libGLESv2.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\LICENSE.txt
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\am.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\ar.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\bg.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\bn.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\ca.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\cs.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\da.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\de.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\el.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\en-GB.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\en-US.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\es-419.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\es.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\et.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\fa.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\fi.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\fil.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\fr.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\gu.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\he.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\hi.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\hr.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\hu.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\id.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\it.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\ja.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\kn.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\ko.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\lt.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\lv.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\ml.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\mr.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\ms.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\nb.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\nl.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\pl.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\pt-BR.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\pt-PT.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\ro.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\ru.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\sk.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\sl.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\sr.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\sv.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\sw.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\ta.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\te.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\th.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\tr.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\uk.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\vi.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\zh-CN.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\locales\zh-TW.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\README.txt
+D:\my studies\study\CefsharpDemo\bin\Debug\resources.pak
+D:\my studies\study\CefsharpDemo\bin\Debug\snapshot_blob.bin
+D:\my studies\study\CefsharpDemo\bin\Debug\swiftshader\libEGL.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\swiftshader\libGLESv2.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\v8_context_snapshot.bin
+D:\my studies\study\CefsharpDemo\bin\Debug\vk_swiftshader.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\vk_swiftshader_icd.json
+D:\my studies\study\CefsharpDemo\bin\Debug\vulkan-1.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.BrowserSubprocess.exe
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.BrowserSubprocess.pdb
+D:\my studies\study\CefsharpDemo\bin\Debug\CefsharpDemo.exe.config
+D:\my studies\study\CefsharpDemo\bin\Debug\CefsharpDemo.exe
+D:\my studies\study\CefsharpDemo\bin\Debug\CefsharpDemo.pdb
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.Core.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.WinForms.dll
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.pdb
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.xml
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.Core.pdb
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.Core.xml
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.WinForms.pdb
+D:\my studies\study\CefsharpDemo\bin\Debug\CefSharp.WinForms.xml
+D:\my studies\study\CefsharpDemo\obj\Debug\CefsharpDemo.Form1.resources
+D:\my studies\study\CefsharpDemo\obj\Debug\CefsharpDemo.Properties.Resources.resources
+D:\my studies\study\CefsharpDemo\obj\Debug\CefsharpDemo.csproj.GenerateResource.cache
+D:\my studies\study\CefsharpDemo\obj\Debug\CefsharpDemo.csproj.CoreCompileInputs.cache
+D:\my studies\study\CefsharpDemo\obj\Debug\CefsharpDemo.csproj.CopyComplete
+D:\my studies\study\CefsharpDemo\obj\Debug\CefsharpDemo.exe
+D:\my studies\study\CefsharpDemo\obj\Debug\CefsharpDemo.pdb
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.Core.Runtime.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.Core.Runtime.xml
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\chrome_100_percent.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\chrome_200_percent.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\chrome_elf.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\d3dcompiler_47.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\icudtl.dat
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\libcef.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\libEGL.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\libGLESv2.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\LICENSE.txt
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\am.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\ar.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\bg.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\bn.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\ca.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\cs.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\da.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\de.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\el.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\en-GB.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\en-US.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\es-419.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\es.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\et.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\fa.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\fi.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\fil.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\fr.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\gu.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\he.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\hi.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\hr.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\hu.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\id.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\it.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\ja.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\kn.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\ko.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\lt.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\lv.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\ml.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\mr.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\ms.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\nb.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\nl.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\pl.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\pt-BR.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\pt-PT.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\ro.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\ru.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\sk.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\sl.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\sr.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\sv.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\sw.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\ta.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\te.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\th.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\tr.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\uk.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\vi.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\zh-CN.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\locales\zh-TW.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\README.txt
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\resources.pak
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\snapshot_blob.bin
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\swiftshader\libEGL.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\swiftshader\libGLESv2.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\v8_context_snapshot.bin
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\vk_swiftshader.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\vk_swiftshader_icd.json
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\vulkan-1.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefsharpDemo.exe.config
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefsharpDemo.exe
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefsharpDemo.pdb
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.Core.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.WinForms.dll
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.pdb
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.xml
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.Core.pdb
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.Core.xml
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.WinForms.pdb
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.WinForms.xml
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\obj\Debug\CefsharpDemo.csproj.AssemblyReference.cache
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\obj\Debug\CefsharpDemo.Form1.resources
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\obj\Debug\CefsharpDemo.Properties.Resources.resources
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\obj\Debug\CefsharpDemo.csproj.GenerateResource.cache
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\obj\Debug\CefsharpDemo.csproj.CoreCompileInputs.cache
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\obj\Debug\CefsharpDemo.csproj.CopyComplete
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\obj\Debug\CefsharpDemo.exe
+C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\obj\Debug\CefsharpDemo.pdb
