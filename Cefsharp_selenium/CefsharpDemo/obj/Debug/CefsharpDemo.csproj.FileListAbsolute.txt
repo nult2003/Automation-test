@@ -193,3 +193,8 @@ C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\obj\Debug\CefsharpDemo.csproj.C
 C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\obj\Debug\CefsharpDemo.csproj.CopyComplete
 C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\obj\Debug\CefsharpDemo.exe
 C:\xProject\Study\Cefsharp_selenium\CefsharpDemo\obj\Debug\CefsharpDemo.pdb
+C:\xProject\Study\Automation-test\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefsharpDemo.exe
+C:\xProject\Study\Automation-test\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.Core.dll
+C:\xProject\Study\Automation-test\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.dll
+C:\xProject\Study\Automation-test\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.WinForms.dll
+C:\xProject\Study\Automation-test\Cefsharp_selenium\CefsharpDemo\bin\Debug\CefSharp.Core.Runtime.dll

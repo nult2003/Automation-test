@@ -39,10 +39,16 @@ namespace CefsharpDemo
             
             //settings.CefCommandLineArgs.Add("enable-system-flash", "1");
             Cef.Initialize(settings);
-            browser = new ChromiumWebBrowser("https://google.com.vn");        
+            browser = new ChromiumWebBrowser("https://google.com.vn");
+            browser.Name = "cef_browser";
             browser.Dock = DockStyle.Fill;
             browser.MenuHandler = new SearchContextMenuHandler();
-            this.Controls.Add(browser);
+            this.panel1.Controls.Add(browser);
+        }
+
+        private void btnBIM_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("hello BIM");
         }
     }
     public class SearchContextMenuHandler : IContextMenuHandler

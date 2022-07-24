@@ -21,3 +21,4 @@ C:\xProject\Study\Cefsharp_selenium\CefsharpDemoTest\obj\Debug\CefsharpDemoTest.
 C:\xProject\Study\Cefsharp_selenium\CefsharpDemoTest\obj\Debug\CefsharpDemoTest.csproj.CoreCompileInputs.cache
 C:\xProject\Study\Cefsharp_selenium\CefsharpDemoTest\obj\Debug\CefsharpDemoTest.exe
 C:\xProject\Study\Cefsharp_selenium\CefsharpDemoTest\obj\Debug\CefsharpDemoTest.pdb
+C:\xProject\Study\Automation-test\Cefsharp_selenium\CefsharpDemoTest\bin\Debug\CefsharpDemoTest.exe

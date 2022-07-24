@@ -1,4 +1,5 @@
-﻿using OpenQA.Selenium.Chrome;
+﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
 using System;
 using System.Windows.Forms;
 
@@ -17,7 +18,7 @@ namespace CefsharpDemoTest
 
         private void btn_vidu1(object sender, EventArgs e)
         {
-            Cef_trying3();
+            Cef_trying2();
         }
 
         // not work
@@ -59,11 +60,12 @@ namespace CefsharpDemoTest
                 //options.AddArgument("--disable-extensions");
                 options.AddArgument("--remote-debugging-port=55555");// it works well
                 var service = ChromeDriverService.CreateDefaultService();
-                //service.HideCommandPromptWindow = true;                
-                service.Port = 55555;
+                service.HideCommandPromptWindow = true; 
                 var driver = new ChromeDriver(service, options); //chromedriver.exe
 
-                driver.Navigate().GoToUrl("http://stackoverflow.com/");
+                driver.Navigate().GoToUrl("https://staging.ibwave-cloud.com/");
+                var header = driver.FindElement(By.CssSelector(".MuiTypography-h1-9"));
+                Console.WriteLine(header.Text);
                 //driver.Manage().Window.Maximize();
 
             }
@@ -90,6 +92,8 @@ namespace CefsharpDemoTest
 
                 driver.Navigate().GoToUrl("https://staging.ibwave-cloud.com/");
                 //driver.Manage().Window.Maximize();
+                var header = driver.FindElement(By.CssSelector(".MuiTypography-root-4 .header-title .MuiTypography-h1-9"));
+                Console.WriteLine(header.Text);
                 //driver.Close();
 
             }
@@ -97,6 +101,11 @@ namespace CefsharpDemoTest
             {
                 Console.WriteLine(ex.Message);
             }
+        }
+
+        private void btnLoadActiveForm_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("hello AUI3");
         }
     }
 }

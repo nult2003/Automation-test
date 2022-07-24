@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CefsharpDemoTest", "Cefshar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CefsharpDemo", "..\CefsharpDemo\CefsharpDemo.csproj", "{4DD89E9B-185A-4798-A94A-9730013366E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIA3", "..\UIA3\UIA3.csproj", "{E6A8B6CF-8EBA-4574-A03E-6CFF372AD392}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4DD89E9B-185A-4798-A94A-9730013366E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DD89E9B-185A-4798-A94A-9730013366E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DD89E9B-185A-4798-A94A-9730013366E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A8B6CF-8EBA-4574-A03E-6CFF372AD392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A8B6CF-8EBA-4574-A03E-6CFF372AD392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A8B6CF-8EBA-4574-A03E-6CFF372AD392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A8B6CF-8EBA-4574-A03E-6CFF372AD392}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
